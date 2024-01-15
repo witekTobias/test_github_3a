@@ -6,5 +6,6 @@ public class ComitTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("Comit test!");
+		System.out.println("Localcomit test!");
 	}
 }
