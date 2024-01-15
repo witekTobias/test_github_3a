@@ -6,6 +6,8 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello GitHub!");
+		System.out.println("Second test");
+		System.out.println("local commit end");
 	}
 
 }
